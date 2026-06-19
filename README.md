@@ -8,7 +8,7 @@ Full-Stack Developer | React · Node.js · MongoDB | ECE @ Vishnu Institute of T
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| 🌾 AgriDrone | Drone booking & crop report management platform | React, Node.js, MongoDB, JWT, Cloudinary | [Live](agridrone-client-badikoqh4-chandana-99-borigorlas-projects.vercel.app) |
+| 🌾 AgriDrone | Drone booking & crop report management platform | React, Node.js, MongoDB, JWT, Cloudinary | [Live](https://agridrone-client-chandana-99-borigorlas-projects.vercel.app/) |
 | 🎤 SpeakReady | AI-powered English communication trainer | React, Node.js, MongoDB, Gemini API | In Development |
 
 ---
@@ -26,12 +26,7 @@ Full-Stack Developer | React · Node.js · MongoDB | ECE @ Vishnu Institute of T
 
 ---
 
-### 📊 GitHub Stats
 
-![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandana-99-borigorla&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandana-99-borigorla&layout=compact&theme=dark&hide_border=true)
-
----
 
 ### 📫 Contact
 
